@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/personal_site_2" beforeDir="false" afterPath="$PROJECT_DIR$/personal_site_2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/personal_site_2/personal_site/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/personal_site_2/personal_site/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal_site_2/personal_site/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/personal_site_2/personal_site/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +62,7 @@
       <workItem from="1621869804095" duration="2289000" />
       <workItem from="1622206727906" duration="107000" />
       <workItem from="1622206870453" duration="5116000" />
+      <workItem from="1622465484596" duration="687000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1622212484992</created>
