@@ -22,6 +22,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -59,7 +60,7 @@
       <workItem from="1621869804095" duration="2289000" />
       <workItem from="1622206727906" duration="107000" />
       <workItem from="1622206870453" duration="5116000" />
-      <workItem from="1622465484596" duration="1723000" />
+      <workItem from="1622465484596" duration="2537000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1622212484992</created>
